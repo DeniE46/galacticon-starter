@@ -1,4 +1,5 @@
 # galacticon-starter
+[Tutorial]
 
 A Simple tutorial application from RayWenderlich demonstrating the following Recycler View features:
   1. switching between LinearLayoutManager and GridLayoutManager
