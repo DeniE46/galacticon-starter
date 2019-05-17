@@ -6,3 +6,5 @@ A Simple tutorial application from RayWenderlich demonstrating the following Rec
   3. OnScrollListener for  getting the last position, compare it to the list size and fetch more data if the position and the list size match
   4. calling detail activity from within ViewHolder without interface eing implemented to the "parent" MainActivity
   5. Extension function to ease the inflation of the layout inside RecyclerAdapter in OnCreateViewHolder
+
+Original tutorial: https://www.raywenderlich.com/1560485-android-recyclerview-tutorial-with-kotlin
